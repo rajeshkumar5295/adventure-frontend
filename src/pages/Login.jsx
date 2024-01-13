@@ -61,53 +61,7 @@ const Login = () => {
 
 
   return (
-    // <form className="signin "  onSubmit={handleSubmit} >
-
-    
-    // <div className="form-container" >
-
-    //   <div className="form"style={{background:"white"}} >
-        
-       
-
-        
-    //     <div className="fortext" >
-    //       <input
-    //         type="text"
-    //         name="username"
-    //         id="username"
-    //         placeholder="username"
-    //         required
-    //         value={username}
-    //         onChange={(e)=>{setUserName(e.target.value)}}
-    //       />
-    //     </div>
-
-       
-
-    //     <div className="fortext" >
-    //       <input
-    //         type="password"
-    //         name="password"
-    //         id="password" 
-    //         required
-    //         placeholder="Password"
-    //         value={password}
-    //         onChange={(e)=>{setPassword(e.target.value)}} 
-    //       />
-    //     </div>
-     
-
-    //     <button type="submit" id="submit-btn" className="submit"  >  Login </button>
-
-        
-
-    //   </div>
-
-     
-      
-    //   </div>
-    // </form>
+  
     
 <form  onSubmit={handleSubmit}  >
 <div className="container1">
